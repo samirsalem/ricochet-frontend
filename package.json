@@ -39,7 +39,7 @@
     "@types/big.js": "^6.1.2",
     "@types/ramda": "^0.27.45",
     "@walletconnect/web3-provider": "^1.7.0",
-    "axios": "0.21.1",
+    "axios": "0.26.0",
     "classnames": "2.2.6",
     "connected-react-router": "6.8.0",
     "cross-env": "7.0.3",
